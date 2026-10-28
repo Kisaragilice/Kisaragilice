@@ -120,3 +120,20 @@ Mindset    : Learn → Build → Break → Fix → Repeat
 <sub>Designed with curiosity, powered by code.</sub>
 
 </div>
+
+
+<!-- ==================== VISITOR COUNTER ==================== -->
+
+<div align="center">
+
+  <img
+    src="https://count.getloli.com/@Kisaragilice?theme=booru-yuyuyui&padding=6&offset=2&align=center&scale=1.0&pixelated=1&darkmode=0"
+    alt="Kisaragilice Visitor Counter"
+  />
+
+  <br/>
+
+  <sub>Thanks for visiting my profile!</sub>
+
+</div>
+
