@@ -2,8 +2,16 @@
 <!-- ==================== HEADER ==================== -->
 
 <div align="center">
+  <img
+    src="./assets/anime-banner.png"
+    width="100%"
+    alt="Anime Night Banner"
+  />
+</div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090F,40:251044,100:00E5FF&text=Kisaragilice&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=Code%20%7C%20Create%20%7C%20Explore&descSize=17&descAlignY=58&animation=fadeIn&stroke=00E5FF&strokeWidth=1" alt="Kisaragilice profile banner"/>
+<div align="center">
+
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090F,40:251044,100:00E5FF&text=Kisaragilice&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=Code%20%7C%20Create%20%7C%20Explore&descSize=17&descAlignY=58&animation=fadeIn&stroke=00E5FF&strokeWidth=1" alt="Kisaragilice profile banner"/> -->
 
 <br/>
 
