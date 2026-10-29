@@ -1,18 +1,18 @@
 
 <div align="center">
 
-  <img src="./assets/anime-banner.png" width="100%" alt="Kisaragilice anime-themed profile banner" />
+  <img src="./assets/anime-banner.png" width="100%" alt="Kisaragilice Anime Banner" />
 
   <h1>Kisaragilice</h1>
+
   <p><b>Informatics Student · Linux Enthusiast · Developer in Progress</b></p>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=600&height=50&lines=Building+Things%2C+One+Commit+at+a+Time;Exploring+Linux+%26+Open+Source;Learning+Backend+Development;Experimenting+with+Self-Hosted+AI" alt="Typing introduction" />
 
   <br/><br/>
 
-  <img src="https://img.shields.io/badge/STATUS-Always%20Learning-00E5FF?style=flat-square&labelColor=11111B" alt="Always learning" />
-  <img src="https://img.shields.io/badge/OS-Arch%20Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white&labelColor=11111B" alt="Arch Linux" />
-  <img src="https://img.shields.io/badge/FOCUS-Backend%20%26%20Systems-BC8CFF?style=flat-square&labelColor=11111B" alt="Backend and systems" />
+  <img src="https://img.shields.io/badge/STATUS-Always%20Learning-00E5FF?style=for-the-badge&labelColor=11111B" alt="Always Learning" />
+  <img src="https://img.shields.io/badge/OS-Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white&labelColor=11111B" alt="Arch Linux" />
 
   <br/><br/>
 
@@ -54,19 +54,15 @@ I'm an Informatics student who enjoys exploring how software and systems work un
 
 <div align="center">
 
-**Languages**
+### Languages
 
 <img src="https://skillicons.dev/icons?i=python,js,php,bash&theme=dark" alt="Python, JavaScript, PHP, and Bash" />
 
-<br/><br/>
-
-**Backend & Database**
+### Backend & Database
 
 <img src="https://skillicons.dev/icons?i=nodejs,mysql&theme=dark" alt="Node.js and MySQL" />
 
-<br/><br/>
-
-**Systems & Tools**
+### Systems & Tools
 
 <img src="https://skillicons.dev/icons?i=linux,arch,docker,git&theme=dark" alt="Linux, Arch Linux, Docker, and Git" />
 
@@ -78,20 +74,20 @@ I'm an Informatics student who enjoys exploring how software and systems work un
 
 <div align="center">
 
-<a href="https://github.com/Kisaragilice">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kisaragilice&show_icons=true&hide_border=true&bg_color=09090F&title_color=00E5FF&text_color=C9D1D9&icon_color=BC8CFF&ring_color=BC8CFF&include_all_commits=true" alt="GitHub statistics" />
-</a>
-<a href="https://github.com/Kisaragilice">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kisaragilice&layout=compact&hide_border=true&bg_color=09090F&title_color=00E5FF&text_color=C9D1D9&langs_count=6" alt="Most used programming languages" />
-</a>
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=Kisaragilice&show_icons=true&hide_border=true&bg_color=09090F&title_color=00E5FF&text_color=C9D1D9&icon_color=BC8CFF"
+    width="48%"
+    alt="GitHub statistics"
+  />
 
-<br/><br/>
-
-<a href="https://github.com/Kisaragilice">
-  <img width="95%" src="https://streak-stats.demolab.com?user=Kisaragilice&hide_border=true&background=09090F&ring=BC8CFF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888899" alt="GitHub contribution streak" />
-</a>
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=Kisaragilice&layout=compact&hide_border=true&bg_color=09090F&title_color=00E5FF&text_color=C9D1D9&langs_count=6"
+    width="48%"
+    alt="Most used programming languages"
+  />
 
 </div>
+
 
 ---
 
@@ -107,9 +103,10 @@ I'm an Informatics student who enjoys exploring how software and systems work un
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00E5FF,50:251044,100:09090F&section=footer" width="100%" alt="Cyan and purple gradient footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00E5FF,50:251044,100:09090F&section=footer" width="100%" alt="Cyan and purple gradient footer" />
 
-  <p><b>Thanks for stopping by.</b></p>
+  <h3>Thanks for visiting my profile!</h3>
+
   <p><sub>Designed with curiosity. Powered by code. Always under development.</sub></p>
 
   <img src="https://count.getloli.com/@Kisaragilice?theme=booru-yuyuyui&padding=6&offset=2&align=center&scale=1.0&pixelated=1&darkmode=0" alt="Kisaragilice visitor counter" />
